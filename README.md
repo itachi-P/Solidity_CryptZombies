@@ -1,1 +1,2 @@
 # Solidity_CryptZombies
+Solidity言語の学習およびプログラミング学習再開
